@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Thank you for your purchase!</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body>
+	<div class="container">
+		<h1>ご登録ありがとうございます！</h1>
+		<p>正常に登録が実行されました。<br>今後も以下のような就活情報を配信していきますのでお楽しみに！</p>
+        <ul>
+			<li>過去の優秀ES</li>
+			<li>SPIの解答集配布</li>
+			<li>激レア求人の募集</li>
+			<li>OB・OGのご紹介</li>
+		</ul>
+        <p>引き続きX-careerをよろしくお願いいたします。</p>
+        <img src='https://lstep.app/p/45172/uDA5Or'>
+	</div>
+</body>
+</html>
